@@ -77,7 +77,7 @@
     'proj.1.label': { ru: 'Сооснователь · GameFi-стартап', en: 'Co-Founder · GameFi Startup' },
     'proj.1.b1': { ru: 'Привлёк $9k ангельских инвестиций', en: 'Raised $9k angel capital' },
     'proj.1.b2': { ru: 'Разработал токен-экономику и модель монетизации с нуля', en: 'Designed token economy and monetization model from scratch' },
-    'proj.1.b3': { ru: 'Управлял производством для своевременного запуска по роадмапу монетизации', en: 'Drove production execution to hit revenue-launch milestones' },
+    'proj.1.b3': { ru: 'Координировал команду и подрядчиков, довёл проект от концепции до прототипа и закрытого тестирования', en: 'Coordinated the team and contractors, taking the project from concept to prototype and closed testing' },
     'proj.2.label': { ru: 'Сооснователь · Календарь с механикой D2E', en: 'Co-Founder · Calendar with D2E mechanics' },
     'proj.2.b1': { ru: 'Разработал концепцию монетизации на основе механики вознаграждений', en: 'Designed reward-driven monetization concept and revenue loop' },
     'proj.2.b2': { ru: 'Проработал UX и рыночное позиционирование с фокусом на конверсию в платящих', en: 'UX and market positioning optimized for paid user conversion' },
