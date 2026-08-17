@@ -74,7 +74,7 @@
     'wins.3.example': { ru: 'В Diamore лично привлёк 48 амбассадоров; вместе с командой развивал сеть из 170+ амбассадоров и KOL, контролируя активность и результаты через реферальные ссылки.', en: 'At Diamore, personally recruited 48 ambassadors and helped the team develop a 170+ ambassador and KOL network, tracking activity and results through referral links.' },
     'wins.4.example': { ru: 'ThunderCoinAI: за два созвона закрыл продажу приложения южнокорейской команде — $4k при стоимости разработки $1k. ROI = ($4k − $1k) / $1k × 100% = 300%. Получил $500 предоплаты за следующий продукт, обеспечив повторную сделку.', en: 'ThunderCoinAI: closed the application sale to a South Korean team in two calls — $4k against a $1k development cost. ROI = ($4k − $1k) / $1k × 100% = 300%. Secured a $500 deposit for the next product, resulting in a repeat deal.' },
     'proj.h': { ru: 'Собственные проекты', en: 'Founder Projects' },
-    'proj.1.label': { ru: 'Основатель · GameFi-стартап', en: 'Founder · GameFi Startup' },
+    'proj.1.label': { ru: 'Сооснователь · GameFi-стартап', en: 'Co-Founder · GameFi Startup' },
     'proj.1.b1': { ru: 'Привлёк $9k ангельских инвестиций', en: 'Raised $9k angel capital' },
     'proj.1.b2': { ru: 'Разработал токен-экономику и модель монетизации с нуля', en: 'Designed token economy and monetization model from scratch' },
     'proj.1.b3': { ru: 'Управлял производством для своевременного запуска по роадмапу монетизации', en: 'Drove production execution to hit revenue-launch milestones' },
